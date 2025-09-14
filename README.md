@@ -1,2 +1,2 @@
-# my-ads
-App-ads.txt hosting for Simply app
+# simplysync-ads
+App-ads.txt hosting for Simply Sync app
